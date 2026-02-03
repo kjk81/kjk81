@@ -1,4 +1,4 @@
-## Kj Kastning
+# Kj Kastning
 
 Computer Science student at Georgia Tech
 
