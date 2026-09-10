@@ -7,5 +7,7 @@ I like programming games, websites, and other fun projects. I'm currently diving
 Check out some of my stuff!
 
 [Games I've Made](https://kjk81.itch.io/)
+
 [kj.kastning.com](https://kj.kastning.com/)
+
 [Notes](https://kjk81.github.io/garden/)
